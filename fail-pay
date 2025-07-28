@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Ошибка оплаты</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff3f3;
+      color: #b00020;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      text-align: center;
+      padding: 20px;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 20px;
+    }
+    p {
+      font-size: 18px;
+      max-width: 500px;
+    }
+  </style>
+</head>
+<body>
+  <h1>❌ Ошибка оплаты</h1>
+  <p>Произошла ошибка во время оплаты. Попробуйте ещё раз или свяжитесь с поддержкой.</p>
+  <hr>
+  <h1>❌ Ödəniş xətası</h1>
+  <p>Ödəniş zamanı xəta baş verdi. Yenidən cəhd edin və ya dəstəyə müraciət edin.</p>
+  <hr>
+  <h1>❌ Payment Failed</h1>
+  <p>An error occurred during the payment process. Please try again or contact support.</p>
+</body>
+</html>
